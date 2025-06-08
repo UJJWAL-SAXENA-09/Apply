@@ -12,3 +12,5 @@ The website facilitates both job creation and job application processes, providi
 2. **Get Hired**: Job seekers can browse through available job listings and apply based on their qualifications and skills, simplifying the process of finding relevant employment opportunities.
 
 The platform is designed to be scalable, secure, and easy to use for both employers and job seekers.
+![image](https://github.com/user-attachments/assets/55da2be8-a3ad-4698-b69d-7cd544f74f16)
+
